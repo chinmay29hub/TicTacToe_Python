@@ -2,3 +2,6 @@
 ### OUTPUT::::::
 
 ![Screenshot](tic.png)
+
+### After the game has ended::::::::
+![Screenshot](tic_2.png)
