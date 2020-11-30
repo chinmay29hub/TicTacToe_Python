@@ -1,7 +1,7 @@
 # Tic_Tac_Toe_Python
 ## A system with installed python will be fine for this project.
   ### In order to download python :
-    1) For Windows : https://www.python.org/downloads/ ()
+    1) For Windows : [Download](https://www.python.org/downloads/ "Python downloads")
     2) For Linux   : It's already shipped with linux. "you can check the version by "
 
 ### The following modules are used in this project:
