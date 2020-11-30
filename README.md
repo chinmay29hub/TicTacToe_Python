@@ -3,7 +3,7 @@
   ### In order to download python :
     1) For Windows : [Download](https://www.python.org/downloads/ "Python downloads")
     2) For Linux   : It's already shipped with linux. "you can check the version by "
-
+[Download](https://www.python.org/downloads/ "Python downloads")
 ### The following modules are used in this project:
      1)Random
      2)Tkinter
